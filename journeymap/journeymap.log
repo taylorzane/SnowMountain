@@ -1,6 +1,6 @@
-[14:56:57] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[14:56:57] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[14:56:57] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.3, built with Forge 14.23.5.2768
+[09:30:03] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[09:30:03] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[09:30:03] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.3, built with Forge 14.23.5.2768
 Forge: 14.23.5.2795
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -11,19 +11,19 @@ Features:
 	MapTopo : singleplayer = true , multiplayer = true
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.3, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=System Time, sizePercent=15, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Icons, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Icons, showGrid=false, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=FPS, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.3, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=System Time, sizePercent=15, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Small Icons, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Icons, showGrid=false, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=FPS, fontScale=2}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.3, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.3, mobDisplay=Small Dots, zoomLevel=2, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.3, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.3, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.3, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.3, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Purist, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[14:56:57] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[14:56:57] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[14:56:57] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
-[14:56:57] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[14:57:22] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[14:57:22] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
-[14:57:23] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[09:30:04] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[09:30:04] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[09:30:04] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[09:30:04] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[09:30:24] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[09:30:25] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
+[09:30:25] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -77,7 +77,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 26 more
-[15:03:10] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[09:33:32] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -109,7 +109,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[15:03:10] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[09:33:32] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1036_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -121,7 +121,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
-[15:03:10] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[09:33:32] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -153,7 +153,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[15:03:10] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[09:33:32] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1036_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -165,12 +165,10 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
-[15:03:38] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[15:03:39] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
-[15:03:40] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\waypoints
-[15:03:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\DIM0. Memory: 3258MB total, 1151MB free 
-[15:03:45] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[15:03:46] [Client thread/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
-[15:33:11] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[15:33:11] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[16:52:31] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\DIM0
+[09:33:58] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[09:33:58] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\waypoints
+[09:33:58] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\DIM0. Memory: 3246MB total, 1144MB free 
+[09:34:03] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[09:34:10] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[09:34:11] [Client thread/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
+[09:36:08] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Austin\Documents\Curse\Minecraft\Instances\SnowMountain\journeymap\data\sp\Biome Bundle\DIM0
